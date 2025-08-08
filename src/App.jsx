@@ -48,7 +48,6 @@ export default function App() {
   return (
     <div className="container">
       <h1>Dubai Day Planner</h1>
-      <p className="kicker">Free, zero-backend app. Weather by Open-Meteo. In-browser AI by WebLLM.</p>
 
       <div className="card">
         <div className="row">
